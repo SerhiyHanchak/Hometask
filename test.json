@@ -1,0 +1,13 @@
+{
+  "flag": true,
+  "myPromices": [1, 2, "TEST"],
+  "element": { "sa": 1 },
+  "screenshot":null,
+  "elementText": "test text",
+  "allElementsText": "const",
+  "counter": 134,
+  "const":"FIRst",
+  "config":"Common",
+  "parameters": [2, 3, 4, 5, 6, 4, 5, 6],
+  "description":"TEST TEST"
+}
